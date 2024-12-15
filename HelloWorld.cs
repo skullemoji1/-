@@ -10,7 +10,6 @@ public class HelloWorld : MonoBehaviour
 
     void Start()
     {
-        //seks
         print("hello world");
     }
 
